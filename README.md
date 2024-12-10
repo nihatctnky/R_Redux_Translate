@@ -7,8 +7,15 @@ Proje, kullanıcı dostu bir arayüz ve hızlı, doğru çeviri sağlayarak dil 
 
 # Kütüphaneler
 
-@Reduxjs/toolkit
-React-redux
-Axios
-React-select
-Tailwindcss
+• @Reduxjs/toolkit 
+
+• React-redux
+
+• Axios
+
+• React-select
+
+• Tailwindcss
+
+# Ekran Gif
+
