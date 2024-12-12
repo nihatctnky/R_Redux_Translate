@@ -19,3 +19,4 @@ Proje, kullanıcı dostu bir arayüz ve hızlı, doğru çeviri sağlayarak dil 
 
 # Ekran Gif
 
+![Video Screen1734026644761](https://github.com/user-attachments/assets/af2107ec-a666-4163-aa83-a5d1c6628262)
